@@ -83,29 +83,353 @@ This activity will be devoted to planning a field based pilot project. Students 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation, project team exercises and written reflection paper | 30% |
-| Final oral presentation | 25% |
-| Final report | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation, project team exercises and written reflection paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final report
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Overview |  {{< br >}}{{< br >}} Jeffrey Blander {{< br >}}{{< br >}} Jose Gomez-Marquez {{< br >}}{{< br >}} Utkan Demirci {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Expanding global access to life saving vaccines: HPV vaccine case study | Jacqueline Sherris |  {{< br >}}{{< br >}} Project topic presentations {{< br >}}{{< br >}} Project proposals due {{< br >}}{{< br >}}  |
-| 3 | New systems for drug delivery | Robert Langer |  {{< br >}}{{< br >}} Group/mentor meeting {{< br >}}{{< br >}} Project selections due {{< br >}}{{< br >}}  |
-| 4 | Microfluidics and global health practice |  {{< br >}}{{< br >}} David Steinmiller {{< br >}}{{< br >}} Elizabeth Bailey {{< br >}}{{< br >}} Michael Lytton {{< br >}}{{< br >}}  | Reflection paper 1 due |
-| 5 | Alternative energy sources | David Berry |  {{< br >}}{{< br >}} Track selection {{< br >}}{{< br >}} Stakeholder analysis due {{< br >}}{{< br >}}  |
-| 6 | R&D for resource poor settings | George Whitesides |  {{< br >}}{{< br >}} Team presentations {{< br >}}{{< br >}} Stakeholder and event diagramming {{< br >}}{{< br >}}  |
-| 7 | Field trip to BAMM laboratory | &nbsp; | Reflection paper 2 due |
-| 8 | Medical device development | Trevor Gunn | &nbsp; |
-| 9 | Electronic medical records and research systems |  {{< br >}}{{< br >}} Ben Bauman {{< br >}}{{< br >}} Vikram Kumar {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | BioPharmaceuticals |  {{< br >}}{{< br >}} Joanna Lowell, BVGH {{< br >}}{{< br >}} Gail Cassell {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | Vaccines development | Kalpana Gupta, IAVI | Draft field proposal review due |
-| 12 | Technology innovation | Kris Olsen | Team meeting |
-| 13 | Venture philanthropy | Brian Trelstad, Omer Imtiazuddin |  {{< br >}}{{< br >}} Team meeting {{< br >}}{{< br >}} Reflection paper 3 due {{< br >}}{{< br >}}  |
-| 14 | Final overview and lessons learned | &nbsp; | Final field project paper due |
-| 15 | Final projects and presentations | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jeffrey Blander
+
+Jose Gomez-Marquez
+
+Utkan Demirci
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Expanding global access to life saving vaccines: HPV vaccine case study
+{{< tdclose >}}
+{{< tdopen >}}
+Jacqueline Sherris
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project topic presentations
+
+Project proposals due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+New systems for drug delivery
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Langer
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group/mentor meeting
+
+Project selections due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microfluidics and global health practice
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+David Steinmiller
+
+Elizabeth Bailey
+
+Michael Lytton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative energy sources
+{{< tdclose >}}
+{{< tdopen >}}
+David Berry
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Track selection
+
+Stakeholder analysis due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+R&D for resource poor settings
+{{< tdclose >}}
+{{< tdopen >}}
+George Whitesides
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Team presentations
+
+Stakeholder and event diagramming
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to BAMM laboratory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Medical device development
+{{< tdclose >}}
+{{< tdopen >}}
+Trevor Gunn
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic medical records and research systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ben Bauman
+
+Vikram Kumar
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+BioPharmaceuticals
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joanna Lowell, BVGH
+
+Gail Cassell
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Vaccines development
+{{< tdclose >}}
+{{< tdopen >}}
+Kalpana Gupta, IAVI
+{{< tdclose >}}
+{{< tdopen >}}
+Draft field proposal review due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Technology innovation
+{{< tdclose >}}
+{{< tdopen >}}
+Kris Olsen
+{{< tdclose >}}
+{{< tdopen >}}
+Team meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Venture philanthropy
+{{< tdclose >}}
+{{< tdopen >}}
+Brian Trelstad, Omer Imtiazuddin
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Team meeting
+
+Reflection paper 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final overview and lessons learned
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final field project paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
