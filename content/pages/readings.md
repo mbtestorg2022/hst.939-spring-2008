@@ -36,17 +36,17 @@ Chapters in [_Disease Control Priorities in Developing Countries_](https://www.n
 *   Laxminarayan, R., J. Chow, and S. A. Shahid-Salles. Chapter 2, "Intervention Cost-Effectiveness: Overview of Main Messages."
 *   Bloom, B. R., C. M. Michaud, J. R. Montagne, and L. Simonsen. Chapter 4, "Priorities for Global Research and Development of Interventions."
 
-Dees, J. G. "The Meaning of 'Social Entrepreneurship.'" (2001). ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://centers.fuqua.duke.edu/case/wp-content/uploads/sites/7/2015/03/Article_Dees_MeaningofSocialEntrepreneurship_2001.pdf)
+Dees, J. G. "The Meaning of 'Social Entrepreneurship.'" (2001). ([PDF)](https://centers.fuqua.duke.edu/case/wp-content/uploads/sites/7/2015/03/Article_Dees_MeaningofSocialEntrepreneurship_2001.pdf)
 
 Drayton, B. "Everyone a Changemaker: Social Entrepreneurship's Ultimate Goal." _Innovations_ 1, no. 1 (Winter 2006): 80-96. [(PDF - 5.5 MB)](https://www.ashoka.org/sites/ashoka/files/innovations8.5x11FINAL.pdf)
 
-Garrett, L. "The Challenge of Global Health." _Foreign Affairs_ 86, no. 1 (February 2007): 14-38. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.foreignaffairs.com/articles/2007-01-01/challenge-global-health))
+Garrett, L. "The Challenge of Global Health." _Foreign Affairs_ 86, no. 1 (February 2007): 14-38. ([PDF](https://www.foreignaffairs.com/articles/2007-01-01/challenge-global-health))
 
 United Nations. "[Millenium Development Goals Report](http://www.un.org/millenniumgoals/reports.shtml)."
 
 Varmus, H., et al. "Grand Challenges in Global Health." _Science_ 302 (October 17, 2003): 398-399.
 
-Wood, A., and M. Martin. "Market-Based Solutions for Financing Philanthropy." UBS Philanthropy Services, 2006. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980097))
+Wood, A., and M. Martin. "Market-Based Solutions for Financing Philanthropy." UBS Philanthropy Services, 2006. ([PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980097))
 
 
 {{< tdclose >}}
@@ -79,13 +79,13 @@ Chapters in [_Disease Control Priorities in Developing Countries_](http://www.dc
 
 ### Biotech innovation
 
-BIO Ventures for Global Health (BVGH). "Global Health Primer." October 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://bvgh.org/global-health-primer/))
+BIO Ventures for Global Health (BVGH). "Global Health Primer." October 2007. ([PDF](https://bvgh.org/global-health-primer/))
 
 ———. "Closing the Global Health Innovation Gap: A Role for the Biotechnology Industry in Drug Discovery for Neglected Diseases." November 2007. 
 
 ### HPV vaccines
 
-World Health Organization. "Assessing New Vaccines for National Immunization Programmes: A Framework to Assist Decision Makers." 2000. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://www.wpro.who.int/publications/docs/assessing_new_vaccines.pdf))
+World Health Organization. "Assessing New Vaccines for National Immunization Programmes: A Framework to Assist Decision Makers." 2000. ([PDF](http://www.wpro.who.int/publications/docs/assessing_new_vaccines.pdf))
 
 Kane, M. A., et al. "Chapter 15: HPV Vaccine Use in the Developing World." _Vaccine_ 24 Supplement 3 (2006): S3/132-S3/139.
 
@@ -191,9 +191,9 @@ O'Neil, T., and E. Kashi. "[The Curse of the Black Gold: Hope and Betrayal in th
 
 Hammond, Allen L., et al. "The Energy Market." Chapter 7 in [_The Next 4 Billion: Market Size and Business Strategy at the Base of the Pyramid_](http://www.wri.org/publication/the-next-4-billion). Washington, DC: World Resources Institute, 2007.
 
-von Schirnding, Y., et al., ed. "Addressing the Impact of Household Energy and Indoor Air Pollution on the Health of the Poor: Implications for Policy Action and Intervention Measures." World Health Organization, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.who.int/mediacentre/events/H&SD_Plaq_no9.pdf))
+von Schirnding, Y., et al., ed. "Addressing the Impact of Household Energy and Indoor Air Pollution on the Health of the Poor: Implications for Policy Action and Intervention Measures." World Health Organization, 2002. ([PDF](http://www.who.int/mediacentre/events/H&SD_Plaq_no9.pdf))
 
-Warwick, H., and A. Doig. "Smoke — The Killer in the Kitchen: Addressing Indoor Air Pollution in Developing Countries." ITDG Publishing, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 4.6 MB](https://www.esmap.org/node/1207))
+Warwick, H., and A. Doig. "Smoke — The Killer in the Kitchen: Addressing Indoor Air Pollution in Developing Countries." ITDG Publishing, 2004. ([PDF 4.6 MB](https://www.esmap.org/node/1207))
 
 
 {{< tdclose >}}
@@ -215,11 +215,11 @@ Chokshi, D. A., and R. Rajkumar. "Leveraging University Research to Advance Glob
 
 McCannon, C. J., D. M. Berwick, and M. R. Massoud. "The Science of Large-Scale Change in Global Health." _JAMA_ 298, no. 16 (October 24/31, 2007): 1937-1939.
 
-Tanzania, "National Health Policy." 1990 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://www.tzonline.org/pdf/Nationahealthpolicy.pdf))
+Tanzania, "National Health Policy." 1990 ([PDF - 2.4 MB](http://www.tzonline.org/pdf/Nationahealthpolicy.pdf))
 
-Tanzania, "The National Science and Technology Policy for Tanzania." 1996 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://www.tzonline.org/pdf/thenationalscience.pdf))
+Tanzania, "The National Science and Technology Policy for Tanzania." 1996 ([PDF - 2.4 MB](http://www.tzonline.org/pdf/thenationalscience.pdf))
 
-"Growing out of Poverty." Tanzania Poverty Monitoring System (NSGRP aka MKUKUTA), 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_ent/---ifp_seed/documents/publication/wcms_117524.pdf))
+"Growing out of Poverty." Tanzania Poverty Monitoring System (NSGRP aka MKUKUTA), 2005. ([PDF - 1.3MB](http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_ent/---ifp_seed/documents/publication/wcms_117524.pdf))
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Medical device development
 
 Norton, Q. "[Give 'em a (Working) Hand](http://archive.wired.com/gadgets/mods/news/2006/09/71797?currentPage=all)." Wired, September 21, 2006.
 
-Geelhoed, G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Surgery and Healing in the Developing World_. (PDF - 4.7MB)](http://www.dartmouth-hitchcock.org/dhmc-internet-upload/file_collection/geelhoed_surgery.pdf) Austin, TX: Landes Biosciences, 2005.
+Geelhoed, G. [_Surgery and Healing in the Developing World_. (PDF - 4.7MB)](http://www.dartmouth-hitchcock.org/dhmc-internet-upload/file_collection/geelhoed_surgery.pdf) Austin, TX: Landes Biosciences, 2005.
 
 McGirk, T. "[The $28 Foot](https://diabeticfootonline.com/2010/02/03/heroes-of-medicine-the-28-foot/)." Time, October 1, 1997.
 
@@ -279,11 +279,11 @@ Fraser, H. S. F., et al. "Implementing Electronic Medical Record Systems in Deve
 
 Hannan, T. J., et al. "The Mosoriot Medical Record System: Design and Initial Implementation of an Outpatient Electronic Record System in Rural Kenya." _International Journal of Medical Informatics_ 60 (2000): 21-28.
 
-Chaulagai, C. N., et al. "Design and Implementation of a Health Management Information System in Malawi." _Health Policy and Planning_ 20, no. 6 (November 2005): 375-84. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://heapol.oxfordjournals.org/content/20/6/375.full.pdf))
+Chaulagai, C. N., et al. "Design and Implementation of a Health Management Information System in Malawi." _Health Policy and Planning_ 20, no. 6 (November 2005): 375-84. ([PDF](http://heapol.oxfordjournals.org/content/20/6/375.full.pdf))
 
 Kukafka, R., et al. "Redesigning Electronic Health Record Systems to Support Public Health." _Journal of Biomedical Informatics_ 40, no. 4 (August 2007): 398-409.
 
-Rommelmann, V., et al. "Cost and Results of Information Systems for Health and Poverty Indicators in the United Republic of Tanzania." _Bulletin of the World Health Organization_ 83, no. 8 (August 2005): 561-640. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.who.int/entity/bulletin/volumes/83/8/569.pdf))
+Rommelmann, V., et al. "Cost and Results of Information Systems for Health and Poverty Indicators in the United Republic of Tanzania." _Bulletin of the World Health Organization_ 83, no. 8 (August 2005): 561-640. ([PDF](http://www.who.int/entity/bulletin/volumes/83/8/569.pdf))
 
 
 {{< tdclose >}}
@@ -301,13 +301,13 @@ BioPharmaceuticals
 
 BIO Ventures for Global Health (BVGH). "[Closing the Global Health Innovation Gap: A Role for the Biotechnology Industry in Drug Discovery for Neglected Diseases](http://www.scribd.com/doc/30520578/BVGH-Diagnostics-Innovation-Map)." 2007.
 
-———. "Tuberculosis Vaccines: The Case for Investment." October 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB](http://www.bvgh.org/Portals/0/Reports/2006_10_tb_vaccines,_the_case_for_investment.pdf))
+———. "Tuberculosis Vaccines: The Case for Investment." October 2006. ([PDF - 1.4 MB](http://www.bvgh.org/Portals/0/Reports/2006_10_tb_vaccines,_the_case_for_investment.pdf))
 
 Ginsberg, A. M., and M. Spigelman. "Challenges in Tuberculosis Drug Research and Development." _Nature Medicine_ 13, no. 3 (March 2007): 290-294.
 
 Nwaka, S., and A. Hudson. "Innovative Lead Discovery Strategies for Tropical Diseases." _Nature Reviews Drug Discovery_ 5 (November 2006): 941-955.
 
-Boston Consulting Group. ["Market Assessment for Malaria Vaccines." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2MB)](http://www.malariavaccine.org/sites/mvi-dev.mrmdev.co.uk/files/content/resources/files/Market-Assessment-18Jan05-LB-BOS_000.pdf) January 2005.
+Boston Consulting Group. ["Market Assessment for Malaria Vaccines." (PDF - 2MB)](http://www.malariavaccine.org/sites/mvi-dev.mrmdev.co.uk/files/content/resources/files/Market-Assessment-18Jan05-LB-BOS_000.pdf) January 2005.
 
 
 {{< tdclose >}}
@@ -335,7 +335,7 @@ Hotez, P. J., and M. T. Ferris. "The Antipoverty Vaccines." _Vaccine_ 24 (2006):
 
 Berndt, E. R., et al. "Advance Market Commitments for Vaccines Against Neglected Diseases: Estimating Costs and Effectiveness." _Health Economics_ 16 (2007): 491-511.
 
-International AIDS Vaccine Initiative (IAVI). ["Forecasting Demand for Preventive HIV Vaccines in India." ( ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://www.researchgate.net/publication/262280076_Forecasting_Demand_for_Preventive_HIV_Vaccines_in_India_Forecasting_Demand_for_Preventive_HIV_Vaccines_in_India) Policy Research Working Paper #13, June 2007.
+International AIDS Vaccine Initiative (IAVI). ["Forecasting Demand for Preventive HIV Vaccines in India." ( PDF)](https://www.researchgate.net/publication/262280076_Forecasting_Demand_for_Preventive_HIV_Vaccines_in_India_Forecasting_Demand_for_Preventive_HIV_Vaccines_in_India) Policy Research Working Paper #13, June 2007.
 
 
 {{< tdclose >}}
